@@ -39,14 +39,6 @@
   background-color: #f1f1f1;
 }
 
-.banner {
-  background-color: #f2a154; /* Choose your desired background color */
-  color: white; /* Choose the text color for the banner */
-  padding: 20px;
-  text-align: center;
-  font-size: 18px;
-}
-
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
